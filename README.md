@@ -1,16 +1,24 @@
-### Hi there 👋
+# Jairo Garcia Centeno 
 
-<!--
-**jairogrc/jairogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 tecnólogo en analisis y desarrollo de sitemas de información  
 
-Here are some ideas to get you started:
+### 👨‍💼 PERFIL
+#### Hola, soy estudiante de ingeniería de software, tengo 29 años y vivo en la ciudad de Bogota - Colombia, actualmente me desempeño como tecnólogo en sistema para la compañia Global Knowledge colombia S.A.S.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Habilidades 📄 | Conocimientos 🧠 |
+| ------ | ------ |
+| Trabajo en equipo | Lenguaje PHP |
+| Puntualidad | Lenguaje HTML |
+| Compromiso | Javacript |
+| Dinamismo  | CSS |
+| Escucha activa | Excel |
+| Creatividad | Power BI |
+__________________________________________________
+| Comandos | Descripción |
+| ------ | ------ |
+| ls ~/ | Filtra palabras |
+|  ~Code | Crear carpetas |
+| - date | mostrar fecha y hora |
+| echo $SHELL  | Que tipo de shell tengo|
+| Control + u | Borra la linea actual |
+| Control + c | Cancela un comando |
