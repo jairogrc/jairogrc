@@ -1,6 +1,6 @@
 # Jairo Garcia Centeno 
 
-### 🎓 tecnólogo en analisis y desarrollo de sitemas de información  
+### 🎓 tecnólogo en analisis y desarrollo de sistemas de información  
 
 ### 👨‍💼 PERFIL
 #### Hola, soy estudiante de ingeniería de software, tengo 29 años y vivo en la ciudad de Bogota - Colombia, actualmente me desempeño como tecnólogo en sistema para la compañia Global Knowledge colombia S.A.S.
